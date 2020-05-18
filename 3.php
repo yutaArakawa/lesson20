@@ -2,6 +2,7 @@
 $num1 = $_POST['num1'];
 $num2 = $_POST['num2'];
 $num3 = $_POST['num3'];
+$num3 = $_POST['num4'];
 ?>
 <!DOCTYPE html>
 <html lang="ja">
@@ -13,5 +14,6 @@ $num3 = $_POST['num3'];
 <?php echo $num1; ?>
 <?php echo $num2; ?>
 <?php echo $num3; ?>
+<?php echo $num4; ?>
 </body>
 </html>

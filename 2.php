@@ -9,6 +9,7 @@
 <input type="text" name="num1">
 <input type="text" name="num2">
 <input type="text" name="num3">
+<input type="text" name="num4">
 <input type="submit" value="送信">
 </form>
 </body>
