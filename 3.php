@@ -1,5 +1,6 @@
 <?php
-$num = $_POST['num'];
+$num1 = $_POST['num1'];
+$num2 = $_POST['num2'];
 ?>
 <!DOCTYPE html>
 <html lang="ja">
@@ -8,6 +9,7 @@ $num = $_POST['num'];
 <title>課題20</title>
 </head>
 <body>
-<?php echo $num; ?>
+<?php echo $num1; ?>
+<?php echo $num2; ?>
 </body>
 </html>
